@@ -1,3 +1,0 @@
-[submodule "sample_pvt_pr_test_reports"]
-	path = sample_pvt_pr_test_reports
-	url = git@github.com:shiptest-rc-ow/coretest_prbuildprivate.git
