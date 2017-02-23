@@ -1,0 +1,3 @@
+[submodule "coretest_prbuildprivate"]
+	path = coretest_prbuildprivate
+	url = https://shiptest-rc-ow@bitbucket.org/shiptest-rc-ow/coretest_prbuildprivate.git
