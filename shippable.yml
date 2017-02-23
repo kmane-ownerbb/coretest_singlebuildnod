@@ -20,7 +20,7 @@ env:
 branches:
   only:
     - master
-  except:
+  except:    
     - nonmaster
 #Uncomment below section to disable the private submodules
 #git:
