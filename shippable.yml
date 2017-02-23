@@ -86,21 +86,4 @@ integrations:
         only:
           - m*
   
-  notifications:
-    - integrationName: email
-      type: email
-      recipients:
-        - shiptest.rc.ow@gmail.com
-        - revathi@shippable.com
-      on_success: always
-      on_failure: always
-   
-    - integrationName: irc
-      type: irc
-      recipients:
-        - "chat.freenode.net#test1"
-      on_success: always
-      on_failure: always
-          
-          
-          
+
