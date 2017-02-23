@@ -85,5 +85,7 @@ integrations:
       branches: #Testing the wildcards for branches include
         only:
           - m*
+          
+        
   
 
