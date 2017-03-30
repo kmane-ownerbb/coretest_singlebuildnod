@@ -9,7 +9,7 @@ env:
   global:
   #Testing for user defined envs and secure envs
     - TEST=FOO
-    - secure: JeIWkDtCl+fonCCIu5+zkpIgqoXasZ1vn7gn7atEDmQgoJs7mzoaKKnhau78PCijFfjbp8dWnONHqOcadJzOit3Il3YTjHGJfIr1o60LPzRRMz2JIcOOvwXXewXCZbWIVbWToMWXnPjORleB/L8pB7ijl5fRf4cESYW3EVc0ga1f10f4jAfRXXkZnz47txTlsVth4D00wZ+GIRCpBKTBToq8DmcreevAgJUuJeJljPyBttBvjyhJM54TxDlG64SOVt86lBiObleEvPOuy4A1y8cwrWGwY2THA5oCqhsCNMN2cURohykH55eCxM0HVLdg6ZxdEIYbu/emZPcgCI+kXA==
+    - secure: QkF8wSKJzMtBnMSyVhO3XB2eCC03Wd4e3oR+rSrTe5f7BWQrlqSHJDGt8iHb7R7wgGIJ2PQghcsCM/wsA7Q86r/Xzx+acOzs6w8xxlrckeHIpdFzE3JQ/z+SFapmBaXmQPTUn7elwegnFEMQQVHiizPf1OenjvVlhEuQkopCIINNGX7Qux86w+1ea7S43e4iUPl7mceoLuDppykXZX63h5z303MbNm96sxtC8akdIC8M2lujQD/G9VrfASCtu9SPYIg2HxWwJS2LHqSvoLhePpsyDKpNFwA/X5kF0UXftDalqx3Y4p/2KjwUmwW3CLA3hFmOQ27zCw1BvYdP88JRsw==
     - IMAGE_NAME=shippabledocker/sample_node_pvt
     - IMAGE_TAG=latest.40
     - IMAGE_PULL=true     
