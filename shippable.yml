@@ -50,6 +50,8 @@ build:
     - echo $FOO
     - echo $GOO
     - echo $BUILD_NUM #echoes the envs specified in the payload of project-event trigger
+    - echo $key1
+    - echo $key2
   post_ci:
   # Testing docker build and push
     - docker build -t=$IMAGE_NAME:$IMAGE_TAG .
@@ -85,3 +87,6 @@ integrations:
       branches: #Testing the wildcards for branches include
         only:
           - m*
+  #Key-value pair integration
+    generic:
+    - integrationName: "ship-keyvalue"
