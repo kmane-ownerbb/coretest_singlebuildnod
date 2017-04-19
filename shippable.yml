@@ -88,5 +88,5 @@ integrations:
         only:
           - m*
   #Key-value pair integration
-    generic:
+  generic:
     - integrationName: "ship-keyvalue"
