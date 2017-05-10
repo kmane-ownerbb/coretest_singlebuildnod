@@ -90,3 +90,5 @@ integrations:
   #Key-value pair integration
   generic:
     - integrationName: "ship-keyvalue"
+    
+    
