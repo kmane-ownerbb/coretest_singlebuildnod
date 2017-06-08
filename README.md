@@ -25,7 +25,7 @@ Test Cases that are covered in CI build triggering manually:
 6. Include(only) tags for master branch.
 7. Exclude(except) tag for non master.
 8. Using wildcard in branches tag(only) in integrations.
-9. Private submodules are enabled.
+9. Private submodules are enabled. 
     - verify the gitsync step in console to verify the submodules are enabled.
 
 10. Docker build and push(private image)
