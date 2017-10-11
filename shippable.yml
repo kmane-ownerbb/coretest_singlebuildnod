@@ -74,7 +74,7 @@ integrations:
   #GCR integration
     - integrationName: ship-gcr
       type: gcr
-  #ECR integration
+ # #ECR integration
     #- integrationName: ship-ecr
     #  type: ecr
     #  region: us-west-2
@@ -90,6 +90,7 @@ integrations:
   #Key-value pair integration
   generic:
     - integrationName: "ship-keyvalue"  
+    
     
 
     
